@@ -1,0 +1,12 @@
+Final output would if the count is odd it will **** if its even it will display ++++ 
+
+****
+++++++++
+****
+++++++++
+**** 
+++++++++
+****
+++++++++
+****
+++++++++
